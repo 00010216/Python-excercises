@@ -4,7 +4,7 @@ Python program that calculates the distance (in km) between two points in latitu
 
 The program should be able to be run from the command line and then print the answer.
 
-Note: Use the argparse library to read command line arguments.
+Note: Use the [argparse library](https://docs.python.org/3/library/argparse.html) to read command line arguments.
 
 # Exercise 2 - X-0 Game
 
@@ -12,9 +12,11 @@ A numpy array of shape (3,3) represents the game of X-0. Each position can be ei
 
 # Exercise 3 - Intersecting Polygons
 
-Write a program that prints the area of each polygon and with how many other polygons it intersects (use the shapely library). 
+Write a program that prints the area of each polygon and with how many other polygons it intersects (use the [shapely library](https://shapely.readthedocs.io/en/latest/manual.html)). 
 
 <br>
+
+# Quick Start 
 
 Create python virtual environment:
 
