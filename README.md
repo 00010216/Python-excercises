@@ -1,3 +1,21 @@
+# Exercise 1 - Distance Between Two Points
+
+Python program that calculates the distance (in km) between two points in latitude and longitude.  To calculate the distance, uses the haversine formula.
+
+The program should be able to be run from the command line and then print the answer.
+
+Note: Use the argparse library to read command line arguments.
+
+# Exercise 2 - X-0 Game
+
+A numpy array of shape (3,3) represents the game of X-0. Each position can be either “X” or “0” and the player that forms 3 in a row (including diagonals) wins. In python you can represent the game with a numpy array and a function that detects the winner.
+
+# Exercise 3 - Intersecting Polygons
+
+Write a program that prints the area of each polygon and with how many other polygons it intersects (use the shapely library). 
+
+<br>
+
 Create python virtual environment:
 
 For windows:
